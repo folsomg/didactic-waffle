@@ -1,5 +1,5 @@
 // Configuration file // updated
-module.exports = { // updated
+module.exports = { // updated // updated
     port: process.env.PORT || 3000,
     env: process.env.NODE_ENV || 'development',
     db: {
