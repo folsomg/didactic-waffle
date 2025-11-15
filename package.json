@@ -6,6 +6,7 @@
   "description": "A didactic waffle project",
   // Update: commit 17
   "main": "index.js",
+  // Update: commit 95
   "scripts": {
   // Update: commit 65
     "start": "node index.js",
