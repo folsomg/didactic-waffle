@@ -4,6 +4,7 @@ A didactic waffle project
 
 ## Installation
 
+  // Update: commit 60
 \`\`\`bash
 npm install
 \`\`\`
